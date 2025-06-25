@@ -688,3 +688,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [25Jun2025 23:35:14.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Sweet Dreams]
 [25Jun2025 23:35:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Getting an Upgrade]
 [25Jun2025 23:35:36.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Getting an Upgrade]
+[25Jun2025 23:36:21.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Phayriosis Parasite Infection]
+[25Jun2025 23:36:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Beast Slayer]
+[25Jun2025 23:36:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was slain by Converted Fish
+[25Jun2025 23:37:25.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[25Jun2025 23:40:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[25Jun2025 23:42:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Monster Hunter]
+[25Jun2025 23:42:33.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Phayriosis Parasite Infection]
+[25Jun2025 23:42:55.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was slain by fur_sondy
+[25Jun2025 23:43:13.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[25Jun2025 23:45:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Conversion...
+[25Jun2025 23:46:35.796] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-209, y=-50, z=-142}
+[25Jun2025 23:46:35.796] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=-50, z=-141}
+[25Jun2025 23:46:35.796] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=-50, z=-142}
+[25Jun2025 23:46:35.797] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=-50, z=-141}
+[25Jun2025 23:46:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Suit Up]
+[25Jun2025 23:46:47.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Who said you needed starch]
+[25Jun2025 23:48:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Spore]
+[25Jun2025 23:52:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 fell from a high place
+[25Jun2025 23:52:46.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[25Jun2025 23:54:07.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/33678, l='ServerLevel[world]', x=-601.55, y=-6.00, z=-400.53] died: Sire_AwfulThe1st was slain by Zombie
