@@ -11,6 +11,7 @@
       "minecraft:birch_forest": "2025-06-25 23:33:39 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 23:12:21 +0000",
       "minecraft:beach": "2025-06-26 02:25:00 +0000",
+      "minecraft:mangrove_swamp": "2025-06-26 02:45:33 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:28:50 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 23:17:37 +0000",
       "minecraft:river": "2025-06-25 23:28:33 +0000",
@@ -19,6 +20,7 @@
       "minecraft:forest": "2025-06-25 23:30:33 +0000",
       "minecraft:jungle": "2025-06-25 23:29:32 +0000",
       "minecraft:ocean": "2025-06-25 23:36:23 +0000",
+      "minecraft:windswept_savanna": "2025-06-26 02:29:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-25 23:17:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:50:51 +0000",
       "minecraft:meadow": "2025-06-26 00:23:58 +0000",
@@ -203,7 +205,8 @@
       "minecraft:cave_spider": "2025-06-26 01:36:56 +0000",
       "minecraft:enderman": "2025-06-25 23:25:03 +0000",
       "minecraft:zombie": "2025-06-25 23:25:36 +0000",
-      "minecraft:drowned": "2025-06-26 02:07:05 +0000"
+      "minecraft:drowned": "2025-06-26 02:07:05 +0000",
+      "minecraft:zombie_villager": "2025-06-26 02:41:57 +0000"
     },
     "done": false
   },
@@ -1176,6 +1179,12 @@
     },
     "done": true
   },
+  "phayriosis:bulbous": {
+    "criteria": {
+      "bulbous_0": "2025-06-26 02:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-06-26 01:45:28 +0000"
@@ -1233,6 +1242,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 01:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
     },
     "done": true
   },
@@ -1362,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:36:02 +0000"
@@ -1392,6 +1413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-26 01:21:25 +0000"
@@ -1401,6 +1428,12 @@
   "phayriosis:the_beginning": {
     "criteria": {
       "the_beginning_0": "2025-06-26 02:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
     },
     "done": true
   },
@@ -1452,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:36:02 +0000"
@@ -1461,6 +1500,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-26 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
     },
     "done": true
   },
@@ -1521,6 +1572,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 01:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-26 02:56:36 +0000"
     },
     "done": true
   },
@@ -1698,6 +1755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-26 02:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-06-26 02:11:00 +0000"
@@ -1737,6 +1800,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-26 02:38:15 +0000"
     },
     "done": true
   },
@@ -1797,6 +1866,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-26 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-26 02:56:36 +0000"
     },
     "done": true
   },

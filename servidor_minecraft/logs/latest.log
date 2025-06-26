@@ -329,3 +329,121 @@
 [26Jun2025 02:26:06.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
 [26Jun2025 02:27:04.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
 [26Jun2025 02:27:42.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['BigXplosion'/159965, l='ServerLevel[world]', x=-339.50, y=62.53, z=-2291.52] died: BigXplosion was shot by Carni2717
+[26Jun2025 02:28:41.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tabcaps'/160547, l='ServerLevel[world]', x=-340.18, y=62.41, z=-2286.61] died: Tabcaps was shot by Carni2717
+[26Jun2025 02:28:49.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/160753, l='ServerLevel[world]', x=-296.98, y=6.00, z=-2233.42] died: Mr_Door12323 was slain by Converted Human
+[26Jun2025 02:28:59.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 02:30:02.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/162642, l='ServerLevel[world]', x=-435.82, y=-23.00, z=-2455.60] died: Technoblade was blown up by Creeper
+[26Jun2025 02:32:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Jun2025 02:32:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[26Jun2025 02:36:54.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/169936, l='ServerLevel[world]', x=-133.43, y=22.42, z=-2462.70] died: TheCaramelGuy was slain by Converted Ravager
+[26Jun2025 02:37:35.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 02:41:59.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 02:43:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Overdose]
+[26Jun2025 02:43:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 02:46:31.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/180584, l='ServerLevel[world]', x=253.70, y=68.42, z=-1692.70] died: Deyvid was slain by Phayrector
+[26Jun2025 02:47:21.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zerox2505[/127.72.254.109:55127] logged in with entity id 182692 at (-36.5, 87.0, 45.5)
+[26Jun2025 02:47:21.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 joined the game
+[26Jun2025 02:47:21.209] [Server thread/INFO] [Jade/]: Syncing config to Zerox2505 (9f822ceb-4040-3eef-b4b6-9d1739ceedf2)
+[26Jun2025 02:47:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 02:47:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Zerox2505 to fur_sondy]
+[26Jun2025 02:47:58.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Monster Hunter]
+[26Jun2025 02:48:10.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/177786, l='ServerLevel[world]', x=255.96, y=63.00, z=-1871.39] died, message: 'Nitwit has succumbed to the infection'
+[26Jun2025 02:48:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Phayriosis Parasite Infection]
+[26Jun2025 02:49:17.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was doomed to fall by Skeleton
+[26Jun2025 02:49:30.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 02:50:28.643] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=-50, z=-141}
+[26Jun2025 02:50:28.643] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=-50, z=-141}
+[26Jun2025 02:50:31.710] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-209, y=-50, z=-142}
+[26Jun2025 02:50:31.710] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=-50, z=-142}
+[26Jun2025 02:50:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Meet the team]
+[26Jun2025 02:50:47.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Pillage you say ?]
+[26Jun2025 02:50:47.930] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=-35, z=-615}
+[26Jun2025 02:50:47.931] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=-29, z=-611}
+[26Jun2025 02:50:47.931] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-29, z=-605}
+[26Jun2025 02:50:51.590] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=115, y=-33, z=-587}
+[26Jun2025 02:50:51.590] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=115, y=-33, z=-588}
+[26Jun2025 02:50:51.591] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=115, y=-33, z=-589}
+[26Jun2025 02:50:51.591] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=115, y=-33, z=-590}
+[26Jun2025 02:50:51.613] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=130, y=-47, z=-598}
+[26Jun2025 02:50:51.613] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=137, y=-47, z=-593}
+[26Jun2025 02:50:51.640] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-41, z=-594}
+[26Jun2025 02:50:51.640] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-47, z=-594}
+[26Jun2025 02:50:51.640] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-47, z=-600}
+[26Jun2025 02:50:51.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-42, z=-592}
+[26Jun2025 02:50:51.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-42, z=-589}
+[26Jun2025 02:50:51.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=101, y=-41, z=-594}
+[26Jun2025 02:50:51.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=101, y=-39, z=-594}
+[26Jun2025 02:50:51.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=101, y=-37, z=-594}
+[26Jun2025 02:50:51.641] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=96, y=-41, z=-589}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-37, z=-588}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-39, z=-588}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-41, z=-588}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-37, z=-591}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-39, z=-591}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-41, z=-591}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-43, z=-591}
+[26Jun2025 02:50:51.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-45, z=-591}
+[26Jun2025 02:50:51.643] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-47, z=-591}
+[26Jun2025 02:50:51.643] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=-47, z=-591}
+[26Jun2025 02:50:54.583] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-39, z=-580}
+[26Jun2025 02:50:54.584] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-41, z=-580}
+[26Jun2025 02:50:54.584] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-39, z=-582}
+[26Jun2025 02:50:54.585] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-41, z=-582}
+[26Jun2025 02:50:54.585] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-39, z=-574}
+[26Jun2025 02:50:54.585] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-41, z=-574}
+[26Jun2025 02:50:54.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-39, z=-576}
+[26Jun2025 02:50:54.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-41, z=-576}
+[26Jun2025 02:50:54.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=95, y=-21, z=-572}
+[26Jun2025 02:50:54.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=95, y=-23, z=-572}
+[26Jun2025 02:50:54.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=95, y=-25, z=-572}
+[26Jun2025 02:50:54.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=95, y=-27, z=-572}
+[26Jun2025 02:50:54.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-27, z=-574}
+[26Jun2025 02:50:54.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-25, z=-574}
+[26Jun2025 02:50:54.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-23, z=-574}
+[26Jun2025 02:50:54.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=94, y=-21, z=-574}
+[26Jun2025 02:50:54.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-27, z=-580}
+[26Jun2025 02:50:54.588] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-21, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-23, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-25, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=99, y=-27, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=-25, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=-27, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=-23, z=-572}
+[26Jun2025 02:50:54.589] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=97, y=-21, z=-572}
+[26Jun2025 02:50:54.590] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=104, y=-27, z=-572}
+[26Jun2025 02:51:20.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Spore]
+[26Jun2025 02:51:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Brainzzz]
+[26Jun2025 02:51:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [So we don't have a deal ?]
+[26Jun2025 02:51:46.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Bulbous]
+[26Jun2025 02:53:00.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 tried to swim in lava
+[26Jun2025 02:53:07.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 02:53:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zerox2505> pipi grupo.com
+[26Jun2025 02:53:40.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['NexouuZ'/186861, l='ServerLevel[world]', x=310.40, y=-25.00, z=-2251.51] died: NexouuZ was shot by Skeleton
+[26Jun2025 02:54:47.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/192453, l='ServerLevel[world]', x=618.72, y=-18.00, z=-2478.85] died: cheesepuff was slain by Converted Human
+[26Jun2025 02:54:47.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/192095, l='ServerLevel[world]', x=609.07, y=-18.00, z=-2476.10] died: Joker_de_Coeur was slain by Converted Human
+[26Jun2025 02:56:03.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TVGuy'/196439, l='ServerLevel[world]', x=813.53, y=-29.00, z=-2564.71] died: TVGuy was slain by Converted Golem
+[26Jun2025 02:56:43.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/192259, l='ServerLevel[world]', x=679.07, y=-19.00, z=-2453.50] died: ExeedingSky74 was slain by Converted Human
+[26Jun2025 02:56:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 02:57:05.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/200477, l='ServerLevel[world]', x=670.58, y=17.00, z=-2389.14] died: Entity was slain by Zombie
+[26Jun2025 02:57:38.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/202001, l='ServerLevel[world]', x=672.52, y=22.00, z=-2438.19] died: Dany_Why was slain by Converted Human
+[26Jun2025 02:59:35.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13712ms or 274 ticks behind
+[26Jun2025 03:00:27.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to Zerox2505]
+[26Jun2025 03:00:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 03:00:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Zerox2505]
+[26Jun2025 03:00:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 03:00:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Suit Up]
+[26Jun2025 03:02:23.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was shot by Carni2717
+[26Jun2025 03:02:28.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 03:02:42.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/209736, l='ServerLevel[world]', x=623.23, y=-27.00, z=-2712.65] died: Deyvid was slain by Primordial Hivebeacon Stage 1
+[26Jun2025 03:02:45.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set the time to 1000]
+[26Jun2025 03:03:15.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 03:03:20.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Floating eyes ?]
+[26Jun2025 03:03:34.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/212635, l='ServerLevel[world]', x=665.49, y=12.00, z=-2682.45] died: Helldwin was slain by Phayrector
+[26Jun2025 03:03:50.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/213381, l='ServerLevel[world]', x=653.78, y=13.00, z=-2680.90] died: TokenOni420 was slain by Decayed Human
+[26Jun2025 03:03:56.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/213403, l='ServerLevel[world]', x=608.55, y=-29.00, z=-2731.06] died: Nova69 was slain by Converted Human
+[26Jun2025 03:04:04.165] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[26Jun2025 03:04:43.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fur_sondy moved too quickly! -3.5284931060840563,0.11988253973140672,-9.962750450901694
+[26Jun2025 03:05:34.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 03:05:46.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 03:07:26.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Slasher '/221722, l='ServerLevel[world]', x=621.82, y=16.00, z=-2709.07] died: Slasher  was slain by Decayed Human
+[26Jun2025 03:07:54.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/222803, l='ServerLevel[world]', x=621.96, y=16.75, z=-2709.38] died: cheesepuff was slain by Decayed Human

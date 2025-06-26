@@ -12,13 +12,18 @@
       "minecraft:birch_forest": "2025-06-25 23:33:48 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 23:11:35 +0000",
       "minecraft:beach": "2025-06-26 02:26:48 +0000",
+      "minecraft:mangrove_swamp": "2025-06-26 02:51:46 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:27:41 +0000",
       "minecraft:river": "2025-06-25 23:29:32 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-26 02:55:51 +0000",
       "minecraft:stony_shore": "2025-06-25 23:32:12 +0000",
       "minecraft:dripstone_caves": "2025-06-26 01:25:58 +0000",
       "minecraft:forest": "2025-06-25 23:30:24 +0000",
+      "minecraft:desert": "2025-06-26 03:06:36 +0000",
       "minecraft:jungle": "2025-06-25 23:29:52 +0000",
       "minecraft:ocean": "2025-06-25 23:40:27 +0000",
+      "minecraft:windswept_savanna": "2025-06-26 02:29:21 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-26 02:56:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:51:01 +0000",
       "minecraft:meadow": "2025-06-26 00:22:37 +0000",
       "minecraft:savanna": "2025-06-26 02:11:35 +0000",
@@ -1104,6 +1109,12 @@
     },
     "done": true
   },
+  "spore:inf_witch": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 02:43:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-26 01:27:59 +0000"
@@ -1131,6 +1142,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-06-26 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "artillerysupport:recipes/misc/red_glow_powder": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 02:33:46 +0000"
     },
     "done": true
   },
@@ -1236,9 +1253,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-26 02:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-06-26 02:34:20 +0000"
     },
     "done": true
   },
@@ -1302,6 +1331,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 02:33:46 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_trader": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 03:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:31:31 +0000"
@@ -1332,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-26 02:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-26 01:35:26 +0000"
@@ -1341,6 +1388,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-26 01:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-26 02:42:15 +0000"
     },
     "done": true
   },
@@ -1365,6 +1418,12 @@
   "phayriosis:beast_slayer": {
     "criteria": {
       "beast_slayer_0": "2025-06-26 01:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 02:33:46 +0000"
     },
     "done": true
   },
@@ -1401,6 +1460,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-06-26 01:46:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-26 02:43:37 +0000"
     },
     "done": true
   },
