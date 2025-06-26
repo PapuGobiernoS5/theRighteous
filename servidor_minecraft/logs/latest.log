@@ -55,3 +55,49 @@
 [26Jun2025 00:14:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Acquire Hardware]
 [26Jun2025 00:14:44.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 withered away whilst fighting Plagued
 [26Jun2025 00:14:46.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy walked into a cactus whilst trying to escape Lacerator
+[26Jun2025 00:16:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Discount radar]
+[26Jun2025 00:17:40.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 00:17:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Servants Of The Hivemind]
+[26Jun2025 00:18:03.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 00:18:14.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Bulbous]
+[26Jun2025 00:19:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was eaten alive by Lacerator
+[26Jun2025 00:19:36.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy withered away whilst fighting Plagued
+[26Jun2025 00:20:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Pulsating Goober]
+[26Jun2025 00:20:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:21:11.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has reached the goal [Infestation]
+[26Jun2025 00:25:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 00:25:41.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 00:27:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Floating eyes ?]
+[26Jun2025 00:27:17.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/60387, l='ServerLevel[world]', x=-491.43, y=126.00, z=-810.56] died: Sire_AwfulThe1st was slain by fur_sondy
+[26Jun2025 00:27:22.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Untrimmed Toenails]
+[26Jun2025 00:27:25.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/60386, l='ServerLevel[world]', x=-502.70, y=129.00, z=-810.41] died: Keymind was slain by fur_sondy
+[26Jun2025 00:27:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was slain by Converted Human
+[26Jun2025 00:28:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set the time to 1000]
+[26Jun2025 00:28:15.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set the weather to clear]
+[26Jun2025 00:29:12.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nunny'/63877, l='ServerLevel[world]', x=-528.57, y=71.00, z=-712.78] died: Nunny was slain by Converted Human
+[26Jun2025 00:29:45.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 fell from a high place
+[26Jun2025 00:29:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 00:30:50.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fur_sondy lost connection: Disconnected
+[26Jun2025 00:30:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy left the game
+[26Jun2025 00:33:17.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63a32694[id=<null>,name=fur_sondy,properties={},legacy=false] (/127.39.229.36:48857) lost connection: Disconnected
+[26Jun2025 00:33:48.953] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bc567c8[id=<null>,name=fur_sondy,properties={},legacy=false] (/127.39.229.36:50917) lost connection: Disconnected
+[26Jun2025 00:33:58.104] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7df00d5e[id=<null>,name=fur_sondy,properties={},legacy=false] (/127.39.229.36:53597) lost connection: Disconnected
+[26Jun2025 00:35:53.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fur_sondy[/127.39.229.36:49049] logged in with entity id 68728 at (-610.6765226174432, 63.0, -357.91386262122177)
+[26Jun2025 00:35:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy joined the game
+[26Jun2025 00:35:53.498] [Server thread/INFO] [Jade/]: Syncing config to fur_sondy (7b5815a3-d3ca-36b7-99ca-66345531fb00)
+[26Jun2025 00:36:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:38:14.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set the time to 1000]
+[26Jun2025 00:40:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 00:42:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 00:42:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 00:43:28.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=107, z=-495} BlockPos{x=-685, y=105, z=-495}
+[26Jun2025 00:43:28.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=107, z=-495} BlockPos{x=-685, y=105, z=-495}
+[26Jun2025 00:43:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 00:44:19.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Disconnected
+[26Jun2025 00:44:19.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[26Jun2025 00:52:17.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:56461] logged in with entity id 79270 at (-683.1687550691295, 107.0, -522.5615551543502)
+[26Jun2025 00:52:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[26Jun2025 00:52:17.624] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[26Jun2025 00:52:37.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/79356, l='ServerLevel[world]', x=-617.11, y=88.00, z=-575.48] died: WhisperFire26 was slain by Converted Pig
+[26Jun2025 00:53:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 fell from a high place
+[26Jun2025 00:55:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Embryonic...
