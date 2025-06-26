@@ -1,4 +1,16 @@
 
+["MOB TYPES"]
+	#List of entity types for Biogenesis Stage Mobs
+	#plaquecreatureone = Flesh Mutant
+	#bruteplaquecreatureone = Flesh Brute I
+	#plaquecreaturebaseone = Flesh Distributor
+	#plaquecontaminator = Flesh Infector
+	#plaquecreaturetwo = Flesh Hunter I
+	#plaquethreelegcreature = Flesh Hysterizer
+	germsStageMobList = ["the_flesh_that_hates:plaquecontaminator", "the_flesh_that_hates:flesh_human", "the_flesh_that_hates:flesh_villager", "the_flesh_that_hates:flesh_sheep", "the_flesh_that_hates:flesh_pig", "the_flesh_that_hates:flesh_cow", "the_flesh_that_hates:plaquecreatureone", "the_flesh_that_hates:flesh_dog", "the_flesh_that_hates:flesh_vindicator", "the_flesh_that_hates:flesh_pillager", "the_flesh_that_hates:bruteplaquecreatureone"]
+	#List of entity types for Enlightenment Stage Mobs
+	awarenessStageMobList = ["the_flesh_that_hates:plaquecreaturetwo", "the_flesh_that_hates:plaquethreelegcreature", "the_flesh_that_hates:flesh_suffer", "the_flesh_that_hates:flesh_boomer", "the_flesh_that_hates:flesh_hunter_two", "the_flesh_that_hates:flesh_howler"]
+
 #GENERAL SETTINGS FOR THE FLESH THAT HATES MOD
 #1 second = 20 ticks
 ["GLOBAL THINGS"]
@@ -555,18 +567,6 @@
 	["MOB SETTINGS"."Flesh Human Head"]
 		#Default values MaxHealth:10|AttackDamage:3|Armor:0
 		"Flesh Human Head Attributes" = "MaxHealth:10|AttackDamage:3|Armor:0"
-
-["MOB TYPES"]
-	#List of entity types for Biogenesis Stage Mobs
-	#plaquecreatureone = Flesh Mutant
-	#bruteplaquecreatureone = Flesh Brute I
-	#plaquecreaturebaseone = Flesh Distributor
-	#plaquecontaminator = Flesh Infector
-	#plaquecreaturetwo = Flesh Hunter I
-	#plaquethreelegcreature = Flesh Hysterizer
-	germsStageMobList = ["the_flesh_that_hates:plaquecontaminator", "the_flesh_that_hates:flesh_human", "the_flesh_that_hates:flesh_villager", "the_flesh_that_hates:flesh_sheep", "the_flesh_that_hates:flesh_pig", "the_flesh_that_hates:flesh_cow", "the_flesh_that_hates:plaquecreatureone", "the_flesh_that_hates:flesh_dog", "the_flesh_that_hates:flesh_vindicator", "the_flesh_that_hates:flesh_pillager", "the_flesh_that_hates:bruteplaquecreatureone"]
-	#List of entity types for Enlightenment Stage Mobs
-	awarenessStageMobList = ["the_flesh_that_hates:plaquecreaturetwo", "the_flesh_that_hates:plaquethreelegcreature", "the_flesh_that_hates:flesh_suffer", "the_flesh_that_hates:flesh_boomer", "the_flesh_that_hates:flesh_hunter_two", "the_flesh_that_hates:flesh_howler"]
 
 ["BLOCK SETTINGS"]
 	#Number of mobs absorbed for evolution
