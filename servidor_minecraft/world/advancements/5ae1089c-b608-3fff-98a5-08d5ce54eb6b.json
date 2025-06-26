@@ -11,6 +11,7 @@
       "minecraft:cherry_grove": "2025-06-26 00:20:17 +0000",
       "minecraft:birch_forest": "2025-06-25 23:33:48 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 23:11:35 +0000",
+      "minecraft:beach": "2025-06-26 02:26:48 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:27:41 +0000",
       "minecraft:river": "2025-06-25 23:29:32 +0000",
       "minecraft:stony_shore": "2025-06-25 23:32:12 +0000",
@@ -20,6 +21,7 @@
       "minecraft:ocean": "2025-06-25 23:40:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:51:01 +0000",
       "minecraft:meadow": "2025-06-26 00:22:37 +0000",
+      "minecraft:savanna": "2025-06-26 02:11:35 +0000",
       "minecraft:plains": "2025-06-25 23:59:14 +0000"
     },
     "done": false
@@ -221,6 +223,7 @@
       "cooked_porkchop": "2025-06-25 23:59:00 +0000",
       "cooked_mutton": "2025-06-25 23:58:46 +0000",
       "cooked_beef": "2025-06-26 00:02:54 +0000",
+      "bread": "2025-06-26 02:04:36 +0000",
       "melon_slice": "2025-06-25 23:26:28 +0000",
       "cooked_chicken": "2025-06-26 00:16:58 +0000"
     },
@@ -1047,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-26 02:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-06-26 01:37:22 +0000"
@@ -1341,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-26 02:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-26 01:27:59 +0000"
@@ -1359,9 +1374,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-26 02:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-26 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 02:26:01 +0000"
     },
     "done": true
   },
