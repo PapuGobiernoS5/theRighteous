@@ -642,3 +642,9 @@ java.lang.NumberFormatException: For input string: "BlockPos{x=-144, y=77, z=57}
 [26Jun2025 16:34:51.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/35221, l='ServerLevel[world]', x=-739.74, y=70.00, z=-4121.10] died: Whisper burned to death
 [26Jun2025 16:34:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
 [26Jun2025 16:35:11.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fur_sondy moved too quickly! -3.7453908497691373,-3.375000132042814,8.736209254385358
+[26Jun2025 16:36:11.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/37621, l='ServerLevel[world]', x=-869.70, y=100.42, z=-3965.10] died: Sire_AwfulThe1st was slain by Decayed Human
+[26Jun2025 16:39:53.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [The Bronze Age]
+[26Jun2025 16:42:10.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Slasher '/44694, l='ServerLevel[world]', x=-856.70, y=61.91, z=-4074.20] died: Slasher  was slain by Converted Human
+[26Jun2025 16:52:11.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 moved too quickly! -8.826945067057864,4.052364640080313,-2.6055928721607415
+[26Jun2025 16:53:29.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/59084, l='ServerLevel[world]', x=-682.30, y=-17.08, z=-4019.49] died: TheCaramelGuy was slain by Phayrector
+[26Jun2025 16:54:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]

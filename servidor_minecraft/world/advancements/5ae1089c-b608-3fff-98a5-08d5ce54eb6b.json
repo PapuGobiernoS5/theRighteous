@@ -1631,6 +1631,42 @@
     },
     "done": true
   },
+  "phayriosis:the_bronze_age": {
+    "criteria": {
+      "the_bronze_age_0": "2025-06-26 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 16:39:53 +0000"
+    },
+    "done": true
+  },
   "phayriosis:trouble_indeed": {
     "criteria": {
       "trouble_indeed_0": "2025-06-26 16:09:02 +0000"
