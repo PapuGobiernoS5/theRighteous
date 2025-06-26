@@ -1631,6 +1631,18 @@
     },
     "done": true
   },
+  "phayriosis:trouble_indeed": {
+    "criteria": {
+      "trouble_indeed_0": "2025-06-26 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "phayriosis:thank_god_it_doesnt_teleport": {
+    "criteria": {
+      "thank_god_it_doesnt_teleport_0": "2025-06-26 16:21:12 +0000"
+    },
+    "done": true
+  },
   "phayriosis:the_bronze_age": {
     "criteria": {
       "the_bronze_age_0": "2025-06-26 16:39:53 +0000"
@@ -1667,15 +1679,111 @@
     },
     "done": true
   },
-  "phayriosis:trouble_indeed": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "trouble_indeed_0": "2025-06-26 16:09:02 +0000"
+      "has_diamond": "2025-06-26 17:23:50 +0000"
     },
     "done": true
   },
-  "phayriosis:thank_god_it_doesnt_teleport": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "thank_god_it_doesnt_teleport_0": "2025-06-26 16:21:12 +0000"
+      "has_paper": "2025-06-26 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-26 17:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-26 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-26 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-26 17:12:51 +0000"
     },
     "done": true
   },

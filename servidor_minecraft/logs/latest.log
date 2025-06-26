@@ -648,3 +648,40 @@ java.lang.NumberFormatException: For input string: "BlockPos{x=-144, y=77, z=57}
 [26Jun2025 16:52:11.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 moved too quickly! -8.826945067057864,4.052364640080313,-2.6055928721607415
 [26Jun2025 16:53:29.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/59084, l='ServerLevel[world]', x=-682.30, y=-17.08, z=-4019.49] died: TheCaramelGuy was slain by Phayrector
 [26Jun2025 16:54:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 16:56:07.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62523, l='ServerLevel[world]', x=-692.02, y=87.00, z=-3698.51] died, message: 'Unemployed was shot by fur_sondy'
+[26Jun2025 16:59:08.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nunny'/63741, l='ServerLevel[world]', x=-778.46, y=-5.35, z=-3909.69] died: Nunny was blown up by Creeper
+[26Jun2025 16:59:17.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/65740, l='ServerLevel[world]', x=-809.92, y=82.00, z=-3873.53] died: Azami was slain by Zombie
+[26Jun2025 16:59:37.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/66329, l='ServerLevel[world]', x=-679.19, y=-47.00, z=-3970.94] died: Entity fell from a high place
+[26Jun2025 17:00:13.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tabcaps'/67603, l='ServerLevel[world]', x=-781.08, y=-5.00, z=-3894.27] died: Tabcaps was slain by Decayed Human
+[26Jun2025 17:00:14.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mr_Door12323'/67604, l='ServerLevel[world]', x=-780.50, y=-5.00, z=-3893.44] died: Mr_Door12323 was slain by Decayed Human
+[26Jun2025 17:03:36.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/70393, l='ServerLevel[world]', x=-827.63, y=-17.00, z=-3920.03] died: LoneGuy was slain by Converted Golem
+[26Jun2025 17:06:08.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Disconnected
+[26Jun2025 17:06:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[26Jun2025 17:06:08.352] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jun2025 17:06:35.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:49135] logged in with entity id 73249 at (-791.7001496605993, 81.00063554902955, -4025.988201911667)
+[26Jun2025 17:06:35.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[26Jun2025 17:06:35.303] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[26Jun2025 17:07:15.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/73675, l='ServerLevel[world]', x=-789.11, y=-34.00, z=-4081.05] died: ABucketOfFriedChicken was doomed to fall by Phayrector
+[26Jun2025 17:07:34.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/73859, l='ServerLevel[world]', x=-680.56, y=-42.00, z=-3985.54] died: Azami was slain by Converted Human
+[26Jun2025 17:08:47.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/75259, l='ServerLevel[world]', x=-683.50, y=-42.00, z=-3984.04] died: Flash62724  was slain by Converted Human
+[26Jun2025 17:09:46.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/76010, l='ServerLevel[world]', x=-683.27, y=-41.00, z=-3986.96] died: TheCaramelGuy was slain by Converted Human
+[26Jun2025 17:11:38.379] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/78460, l='ServerLevel[world]', x=-822.64, y=24.00, z=-4027.12] died: JhonOK22 was slain by Phayrector
+[26Jun2025 17:13:51.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/81060, l='ServerLevel[world]', x=-681.06, y=-41.00, z=-3986.73] died: Deyvid was slain by Converted Human
+[26Jun2025 17:15:36.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Anesthesia not required]
+[26Jun2025 17:16:12.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 moved too quickly! -0.8275024616217479,0.0,10.500841771604428
+[26Jun2025 17:16:58.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 17:21:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 17:21:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Over-juiced]
+[26Jun2025 17:22:00.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 17:22:27.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 17:22:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set Carni2717's game mode to Survival Mode]
+[26Jun2025 17:22:45.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 17:22:54.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 17:22:55.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 17:23:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Diamonds!]
+[26Jun2025 17:24:56.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 17:25:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was eaten alive by Infected Villager
+[26Jun2025 17:25:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 17:25:13.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5, y=-14, z=256}
+[26Jun2025 17:25:13.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5, y=-14, z=257}
+[26Jun2025 17:25:20.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]

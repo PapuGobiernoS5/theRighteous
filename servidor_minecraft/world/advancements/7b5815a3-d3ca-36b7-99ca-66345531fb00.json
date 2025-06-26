@@ -2057,5 +2057,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-26 17:17:36 +0000"
+    },
+    "done": true
+  },
+  "spore:twisted_creation": {
+    "criteria": {
+      "pick_up_surgery": "2025-06-26 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-26 17:17:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
