@@ -4197,3 +4197,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Jun2025 00:04:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
 [26Jun2025 00:04:58.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/39568, l='ServerLevel[world]', x=-680.50, y=78.00, z=-492.79] died: Dany_Why was slain by Carni2717
 [26Jun2025 00:05:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Scanning time]
+[26Jun2025 00:06:20.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=80, z=-492} BlockPos{x=-703, y=82, z=-493}
+[26Jun2025 00:06:20.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=80, z=-492} BlockPos{x=-703, y=82, z=-493}
+[26Jun2025 00:06:58.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Gotta send him to rehab]
+[26Jun2025 00:07:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 withered away
+[26Jun2025 00:07:06.886] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896426885
+[26Jun2025 00:07:08.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Gotta send him to rehab]
+[26Jun2025 00:07:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was slain by Plagued
+[26Jun2025 00:07:10.459] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896430459
+[26Jun2025 00:07:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:07:22.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 00:07:30.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 00:07:30.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 00:07:45.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 00:07:54.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/39622, l='ServerLevel[world]', x=-689.59, y=85.89, z=-490.30] died: Whisper was slain by fur_sondy
+[26Jun2025 00:08:24.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 00:09:06.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-681, y=86, z=-518} BlockPos{x=-681, y=84, z=-518}
+[26Jun2025 00:12:22.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/44599, l='ServerLevel[world]', x=-682.28, y=92.00, z=-490.34] died: Flash62724  was slain by Carni2717
+[26Jun2025 00:12:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Sir Arthur is that you ?]
+[26Jun2025 00:12:30.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 00:12:30.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 00:12:33.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/44795, l='ServerLevel[world]', x=-685.20, y=92.54, z=-494.30] died: ABucketOfFriedChicken was slain by Carni2717
+[26Jun2025 00:12:48.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Pochita ?]
+[26Jun2025 00:12:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was blown up by Creeper
+[26Jun2025 00:12:53.313] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896773309
+[26Jun2025 00:12:56.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:12:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Take Aim]
+[26Jun2025 00:12:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [And the winner of the Darwin awards is ?]
+[26Jun2025 00:13:10.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy forgot Plagued was a bioweapon
+[26Jun2025 00:13:12.565] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896792564
+[26Jun2025 00:13:16.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:13:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Acquire Hardware]
+[26Jun2025 00:13:26.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was blown up by Infected Scientist
+[26Jun2025 00:13:28.579] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896808569
+[26Jun2025 00:13:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 00:13:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was eaten alive by Lacerator
+[26Jun2025 00:13:53.966] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896833953
+[26Jun2025 00:14:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Funny explosion meme]
+[26Jun2025 00:14:00.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/48380, l='ServerLevel[world]', x=-595.56, y=86.00, z=-534.31] died: Belladonna was slain by Converted Chicken
+[26Jun2025 00:14:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 00:14:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy walked into a cactus whilst trying to escape Lacerator
+[26Jun2025 00:14:27.614] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896867605
+[26Jun2025 00:14:31.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:14:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [He looks thirsty]
+[26Jun2025 00:14:38.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-678, y=93, z=-493} BlockPos{x=-680, y=91, z=-496}
+[26Jun2025 00:14:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Acquire Hardware]
+[26Jun2025 00:14:44.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 withered away whilst fighting Plagued
+[26Jun2025 00:14:46.210] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896886202
+[26Jun2025 00:14:46.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy walked into a cactus whilst trying to escape Lacerator
+[26Jun2025 00:14:48.161] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896888161

@@ -194,9 +194,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-06-26 00:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-06-25 23:26:18 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_hazmat": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 00:04:42 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-25 23:38:41 +0000"
+    },
+    "done": true
+  },
+  "spore:lacerator": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 00:03:00 +0000"
     },
     "done": true
   },
@@ -350,6 +368,12 @@
     },
     "done": true
   },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-06-26 00:03:29 +0000"
+    },
+    "done": true
+  },
   "phayriosis:phayriosis_parasite_infection": {
     "criteria": {
       "phayriosis_parasite_infection_0": "2025-06-25 23:36:21 +0000"
@@ -377,6 +401,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-06-25 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-06-26 00:09:51 +0000"
     },
     "done": true
   },
@@ -530,6 +560,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-06-26 00:09:51 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-06-26 00:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-25 23:34:56 +0000"
@@ -558,6 +600,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-25 23:59:00 +0000",
       "cooked_mutton": "2025-06-25 23:58:46 +0000",
+      "cooked_beef": "2025-06-26 00:02:54 +0000",
       "melon_slice": "2025-06-25 23:26:28 +0000"
     },
     "done": false
@@ -619,6 +662,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-25 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "spore:plagued": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 00:06:58 +0000"
     },
     "done": true
   },
