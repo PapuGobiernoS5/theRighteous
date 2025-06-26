@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-26 02:54:44 +0000"
@@ -23,15 +35,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-06-26 02:57:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-26 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -83,9 +119,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-26 02:51:02 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -95,9 +167,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-26 02:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -137,9 +233,33 @@
     },
     "done": true
   },
+  "artillerysupport:recipes/misc/case": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-06-26 02:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -161,9 +281,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-26 02:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -179,9 +311,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-26 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -205,9 +349,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-26 03:09:12 +0000",
+      "minecraft:spider": "2025-06-26 03:15:57 +0000",
+      "minecraft:creeper": "2025-06-26 03:17:15 +0000",
       "minecraft:zombie": "2025-06-26 02:47:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
@@ -221,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-06-26 02:57:14 +0000"
@@ -230,6 +389,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-06-26 02:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -302,6 +467,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-06-26 02:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
@@ -384,15 +555,33 @@
     },
     "done": true
   },
+  "spore:inf_drowned": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 03:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-26 02:54:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-26 02:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-26 03:10:02 +0000"
     },
     "done": true
   },
