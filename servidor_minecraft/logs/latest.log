@@ -627,3 +627,18 @@ java.lang.NumberFormatException: For input string: "BlockPos{x=-144, y=77, z=57}
 [26Jun2025 16:14:34.458] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-703, y=-43, z=-4373}
 [26Jun2025 16:14:34.747] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-589, y=-22, z=-4384}
 [26Jun2025 16:14:51.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/10802, l='ServerLevel[world]', x=-835.60, y=63.13, z=-4129.84] died: ExeedingSky74 was shot by fur_sondy
+[26Jun2025 16:15:50.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=-35, z=-615}
+[26Jun2025 16:15:50.603] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98, y=-29, z=-611}
+[26Jun2025 16:15:50.603] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-29, z=-605}
+[26Jun2025 16:20:16.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/17658, l='ServerLevel[world]', x=-869.56, y=77.42, z=-4055.30] died: PedroHenrry was slain by Converted Ravager
+[26Jun2025 16:21:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has reached the goal [Not As Bad As The Simmer]
+[26Jun2025 16:21:23.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/18898, l='ServerLevel[world]', x=-859.92, y=70.00, z=-4067.70] died: Mad_Dog was slain by Converted Human
+[26Jun2025 16:26:16.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/25323, l='ServerLevel[world]', x=-837.58, y=12.00, z=-4114.58] died: DawnsSlayers burned to death
+[26Jun2025 16:26:47.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/26384, l='ServerLevel[world]', x=-692.71, y=-44.98, z=-3942.37] died: PedroHenrry was slain by Phayrector
+[26Jun2025 16:28:08.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/28413, l='ServerLevel[world]', x=-732.70, y=-28.00, z=-4056.54] died: Entity was slain by Phayrector
+[26Jun2025 16:30:00.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/29940, l='ServerLevel[world]', x=-717.66, y=-44.48, z=-4060.55] died: %1$s was slain by %2$s
+[26Jun2025 16:32:21.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['BigXplosion'/33100, l='ServerLevel[world]', x=-687.45, y=-42.43, z=-3965.44] died: BigXplosion was slain by Converted Human
+[26Jun2025 16:33:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 16:34:51.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/35221, l='ServerLevel[world]', x=-739.74, y=70.00, z=-4121.10] died: Whisper burned to death
+[26Jun2025 16:34:56.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 16:35:11.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fur_sondy moved too quickly! -3.7453908497691373,-3.375000132042814,8.736209254385358

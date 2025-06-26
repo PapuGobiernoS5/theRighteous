@@ -15,6 +15,7 @@
       "minecraft:badlands": "2025-06-26 04:00:12 +0000",
       "minecraft:beach": "2025-06-26 02:26:48 +0000",
       "minecraft:stony_peaks": "2025-06-26 05:07:29 +0000",
+      "minecraft:dark_forest": "2025-06-26 16:15:50 +0000",
       "minecraft:mangrove_swamp": "2025-06-26 02:51:46 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:27:41 +0000",
       "minecraft:river": "2025-06-25 23:29:32 +0000",
@@ -1633,6 +1634,12 @@
   "phayriosis:trouble_indeed": {
     "criteria": {
       "trouble_indeed_0": "2025-06-26 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "phayriosis:thank_god_it_doesnt_teleport": {
+    "criteria": {
+      "thank_god_it_doesnt_teleport_0": "2025-06-26 16:21:12 +0000"
     },
     "done": true
   },
