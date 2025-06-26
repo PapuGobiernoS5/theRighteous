@@ -18,7 +18,8 @@
       "minecraft:ocean": "2025-06-25 23:36:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-25 23:17:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:50:51 +0000",
-      "minecraft:savanna": "2025-06-25 23:24:24 +0000"
+      "minecraft:savanna": "2025-06-25 23:24:24 +0000",
+      "minecraft:plains": "2025-06-25 23:58:41 +0000"
     },
     "done": false
   },
@@ -262,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-25 23:56:13 +0000"
+    },
+    "done": true
+  },
   "spore:inf_witch": {
     "criteria": {
       "hurt_infected": "2025-06-25 23:24:56 +0000"
@@ -304,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2025-06-25 23:54:38 +0000"
+    },
+    "done": true
+  },
   "spore:lost_technology": {
     "criteria": {
       "pick_up_compound_plate": "2025-06-25 23:46:47 +0000"
@@ -331,6 +344,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-06-25 23:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-25 23:56:13 +0000"
     },
     "done": true
   },
@@ -373,6 +392,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-06-25 23:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-25 23:56:13 +0000"
     },
     "done": true
   },
@@ -486,6 +511,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-26 00:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-25 23:32:31 +0000"
@@ -518,6 +549,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-25 23:54:42 +0000",
+      "cooked_beef": "2025-06-26 00:00:23 +0000",
       "melon_slice": "2025-06-25 23:41:10 +0000"
     },
     "done": false

@@ -4166,3 +4166,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [25Jun2025 23:52:30.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jun2025 23:52:46.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
 [25Jun2025 23:54:07.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/33678, l='ServerLevel[world]', x=-601.55, y=-6.00, z=-400.53] died: Sire_AwfulThe1st was slain by Zombie
+[25Jun2025 23:56:38.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was slain by fur_sondy
+[25Jun2025 23:56:39.358] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750895799350
+[25Jun2025 23:56:43.424] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750895803423
+[25Jun2025 23:57:30.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 23:57:30.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 23:57:56.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/38052, l='ServerLevel[world]', x=-635.30, y=-5.35, z=-322.56] died: Flash62724  was slain by Converted Human
+[26Jun2025 00:00:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Suit Up]
+[26Jun2025 00:00:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Who said you needed starch]
+[26Jun2025 00:00:33.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Scanning time]
+[26Jun2025 00:01:13.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 00:01:44.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 00:02:30.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 00:02:30.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 00:03:00.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Pochita ?]
+[26Jun2025 00:03:29.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [A broken reflection]
+[26Jun2025 00:03:31.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['PedroHenrry'/39805, l='ServerLevel[world]', x=-675.30, y=72.24, z=-513.45] died: PedroHenrry was slain by Carni2717
+[26Jun2025 00:03:36.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [A broken reflection]
+[26Jun2025 00:03:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was slain by Flash62724 
+[26Jun2025 00:03:39.689] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896219674
+[26Jun2025 00:03:41.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Flash62724 '/39569, l='ServerLevel[world]', x=-676.50, y=71.00, z=-506.85] died: Flash62724  was slain by Carni2717
+[26Jun2025 00:03:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:03:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Brainzzz]
+[26Jun2025 00:03:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [So we don't have a deal ?]
+[26Jun2025 00:04:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [That suit was just for show]
+[26Jun2025 00:04:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [That suit was just for show]
+[26Jun2025 00:04:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was blown up by Infected Scientist
+[26Jun2025 00:04:42.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/39709, l='ServerLevel[world]', x=-683.99, y=78.00, z=-494.71] died: TokenOni420 was blown up by Infected Scientist
+[26Jun2025 00:04:44.869] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750896284860
+[26Jun2025 00:04:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 00:04:58.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/39568, l='ServerLevel[world]', x=-680.50, y=78.00, z=-492.79] died: Dany_Why was slain by Carni2717
+[26Jun2025 00:05:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Scanning time]

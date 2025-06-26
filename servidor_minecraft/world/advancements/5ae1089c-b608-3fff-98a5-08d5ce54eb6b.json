@@ -15,7 +15,8 @@
       "minecraft:forest": "2025-06-25 23:30:24 +0000",
       "minecraft:jungle": "2025-06-25 23:29:52 +0000",
       "minecraft:ocean": "2025-06-25 23:40:27 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-25 23:51:01 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-25 23:51:01 +0000",
+      "minecraft:plains": "2025-06-25 23:59:14 +0000"
     },
     "done": false
   },
@@ -223,6 +224,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-26 00:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-06-25 23:26:18 +0000"
@@ -232,6 +239,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-25 23:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-25 23:55:42 +0000"
     },
     "done": true
   },
@@ -250,6 +263,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-06-25 23:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-25 23:55:19 +0000"
     },
     "done": true
   },
@@ -298,6 +317,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-25 23:27:59 +0000"
+    },
+    "done": true
+  },
+  "spore:lost_technology": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-06-26 00:00:18 +0000"
     },
     "done": true
   },
@@ -367,9 +392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-25 23:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-25 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-25 23:55:19 +0000"
     },
     "done": true
   },
@@ -415,6 +452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-25 23:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-06-25 23:28:04 +0000"
@@ -430,6 +473,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-25 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-06-25 23:55:42 +0000"
     },
     "done": true
   },
@@ -475,9 +524,21 @@
     },
     "done": true
   },
+  "spore:scanning_world": {
+    "criteria": {
+      "pick_up_scanner": "2025-06-26 00:00:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-25 23:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-25 23:55:19 +0000"
     },
     "done": true
   },
@@ -495,6 +556,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-25 23:59:00 +0000",
+      "cooked_mutton": "2025-06-25 23:58:46 +0000",
       "melon_slice": "2025-06-25 23:26:28 +0000"
     },
     "done": false
@@ -532,6 +595,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-25 23:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-25 23:59:38 +0000"
     },
     "done": true
   },
