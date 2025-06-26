@@ -10,6 +10,7 @@
       "minecraft:cherry_grove": "2025-06-26 00:20:47 +0000",
       "minecraft:birch_forest": "2025-06-25 23:33:39 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 23:12:21 +0000",
+      "minecraft:wooded_badlands": "2025-06-26 03:33:28 +0000",
       "minecraft:beach": "2025-06-26 02:25:00 +0000",
       "minecraft:mangrove_swamp": "2025-06-26 02:45:33 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:28:50 +0000",
@@ -18,9 +19,11 @@
       "minecraft:stony_shore": "2025-06-25 23:32:07 +0000",
       "minecraft:dripstone_caves": "2025-06-26 00:22:47 +0000",
       "minecraft:forest": "2025-06-25 23:30:33 +0000",
+      "minecraft:desert": "2025-06-26 03:20:21 +0000",
       "minecraft:jungle": "2025-06-25 23:29:32 +0000",
       "minecraft:ocean": "2025-06-25 23:36:23 +0000",
       "minecraft:windswept_savanna": "2025-06-26 02:29:20 +0000",
+      "minecraft:warm_ocean": "2025-06-26 03:25:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-25 23:17:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-25 23:50:51 +0000",
       "minecraft:meadow": "2025-06-26 00:23:58 +0000",
@@ -199,6 +202,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-26 03:44:25 +0000",
       "minecraft:skeleton": "2025-06-25 23:25:49 +0000",
       "minecraft:spider": "2025-06-26 01:47:23 +0000",
       "minecraft:creeper": "2025-06-26 00:12:51 +0000",
@@ -1179,6 +1183,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 03:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
+    },
+    "done": true
+  },
   "phayriosis:bulbous": {
     "criteria": {
       "bulbous_0": "2025-06-26 02:51:46 +0000"
@@ -1257,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-26 02:11:02 +0000"
@@ -1281,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-26 03:49:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:36:02 +0000"
@@ -1296,6 +1330,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-26 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
     },
     "done": true
   },
@@ -1497,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 03:45:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-26 01:45:46 +0000"
@@ -1590,6 +1636,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 01:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
     },
     "done": true
   },
@@ -1779,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-26 03:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-26 01:23:44 +0000"
@@ -1788,6 +1846,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 01:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-26 03:44:58 +0000"
     },
     "done": true
   },
@@ -1833,9 +1897,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-06-26 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-26 03:50:08 +0000"
     },
     "done": true
   },
@@ -1848,6 +1924,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-26 02:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
     },
     "done": true
   },
@@ -1911,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-26 01:23:44 +0000"
@@ -1920,6 +2008,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-26 01:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 03:46:18 +0000"
     },
     "done": true
   },

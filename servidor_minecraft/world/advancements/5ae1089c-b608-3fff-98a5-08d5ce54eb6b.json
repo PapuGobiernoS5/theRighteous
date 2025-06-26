@@ -11,6 +11,7 @@
       "minecraft:cherry_grove": "2025-06-26 00:20:17 +0000",
       "minecraft:birch_forest": "2025-06-25 23:33:48 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 23:11:35 +0000",
+      "minecraft:wooded_badlands": "2025-06-26 03:34:23 +0000",
       "minecraft:beach": "2025-06-26 02:26:48 +0000",
       "minecraft:mangrove_swamp": "2025-06-26 02:51:46 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:27:41 +0000",
@@ -565,6 +566,7 @@
       "minecraft:spider": "2025-06-26 00:52:24 +0000",
       "minecraft:creeper": "2025-06-26 01:11:13 +0000",
       "minecraft:cave_spider": "2025-06-26 01:38:59 +0000",
+      "minecraft:enderman": "2025-06-26 03:37:37 +0000",
       "minecraft:zombie": "2025-06-26 00:27:40 +0000",
       "minecraft:drowned": "2025-06-25 23:42:26 +0000"
     },
@@ -1062,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 03:45:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-06-26 01:37:22 +0000"
@@ -1089,6 +1097,18 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-06-26 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-26 03:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-26 03:26:54 +0000"
     },
     "done": true
   },
@@ -1170,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-26 03:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-26 01:35:26 +0000"
@@ -1203,6 +1229,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-26 01:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 03:45:13 +0000"
     },
     "done": true
   },
@@ -1365,6 +1397,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-06-26 01:35:26 +0000"
+    },
+    "done": true
+  },
+  "spore:lore1": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-06-26 03:29:46 +0000"
     },
     "done": true
   },
