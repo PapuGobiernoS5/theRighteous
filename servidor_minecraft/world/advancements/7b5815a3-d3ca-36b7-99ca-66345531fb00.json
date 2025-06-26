@@ -11,7 +11,10 @@
       "minecraft:birch_forest": "2025-06-25 23:33:39 +0000",
       "minecraft:bamboo_jungle": "2025-06-25 23:12:21 +0000",
       "minecraft:wooded_badlands": "2025-06-26 03:33:28 +0000",
+      "minecraft:badlands": "2025-06-26 04:00:20 +0000",
+      "minecraft:savanna_plateau": "2025-06-26 04:12:13 +0000",
       "minecraft:beach": "2025-06-26 02:25:00 +0000",
+      "minecraft:stony_peaks": "2025-06-26 04:12:29 +0000",
       "minecraft:mangrove_swamp": "2025-06-26 02:45:33 +0000",
       "minecraft:sparse_jungle": "2025-06-25 23:28:50 +0000",
       "minecraft:lukewarm_ocean": "2025-06-25 23:17:37 +0000",
@@ -1966,6 +1969,12 @@
   "spore:inf_drowned": {
     "criteria": {
       "hurt_by_infected": "2025-06-26 01:29:42 +0000"
+    },
+    "done": true
+  },
+  "phayriosis:thank_god_it_doesnt_teleport": {
+    "criteria": {
+      "thank_god_it_doesnt_teleport_0": "2025-06-26 04:15:29 +0000"
     },
     "done": true
   },
