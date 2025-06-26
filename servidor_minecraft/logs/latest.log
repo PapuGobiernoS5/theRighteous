@@ -101,3 +101,31 @@
 [26Jun2025 00:52:37.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/79356, l='ServerLevel[world]', x=-617.11, y=88.00, z=-575.48] died: WhisperFire26 was slain by Converted Pig
 [26Jun2025 00:53:52.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 fell from a high place
 [26Jun2025 00:55:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Embryonic...
+[26Jun2025 00:57:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 withered away
+[26Jun2025 01:00:10.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Disconnected
+[26Jun2025 01:00:10.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[26Jun2025 01:01:55.258] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4abb627e[id=<null>,name=Carni2717,properties={},legacy=false] (/127.230.123.102:33097) lost connection: Disconnected
+[26Jun2025 01:02:29.561] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5819bce7[id=<null>,name=Carni2717,properties={},legacy=false] (/127.230.123.102:35847) lost connection: Disconnected
+[26Jun2025 01:02:35.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/87160, l='ServerLevel[world]', x=-753.17, y=89.00, z=-678.19] died: Hypnotizd was blown up by Converted Creeper
+[26Jun2025 01:03:36.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a76789e[id=<null>,name=Carni2717,properties={},legacy=false] (/127.230.123.102:57955) lost connection: Disconnected
+[26Jun2025 01:03:42.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:36051] logged in with entity id 87918 at (-715.9250000119209, 71.0, -518.1425233108512)
+[26Jun2025 01:03:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[26Jun2025 01:03:42.204] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[26Jun2025 01:06:51.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fur_sondy lost connection: Disconnected
+[26Jun2025 01:06:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy left the game
+[26Jun2025 01:06:51.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/88732, l='ServerLevel[world]', x=-746.81, y=12.00, z=-595.67] died: Azami was slain by Primordial Hivebeacon Stage 1
+[26Jun2025 01:10:19.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ButtonHatBoy'/92763, l='ServerLevel[world]', x=-879.30, y=-5.43, z=-656.65] died: ButtonHatBoy was slain by Converted Human
+[26Jun2025 01:11:10.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fur_sondy[/127.39.229.36:49251] logged in with entity id 93412 at (-692.956166731583, 147.37039191849166, -611.1104232911415)
+[26Jun2025 01:11:10.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy joined the game
+[26Jun2025 01:11:10.669] [Server thread/INFO] [Jade/]: Syncing config to fur_sondy (7b5815a3-d3ca-36b7-99ca-66345531fb00)
+[26Jun2025 01:11:38.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 01:13:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [Pillage you say ?]
+[26Jun2025 01:14:54.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/97865, l='ServerLevel[world]', x=-805.94, y=-10.00, z=-681.43] died: Deyvid was slain by Converted Human
+[26Jun2025 01:14:58.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was slain by fur_sondy
+[26Jun2025 01:15:00.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JWT114'/95256, l='ServerLevel[world]', x=-800.63, y=68.79, z=-730.70] died: JWT114 was slain by fur_sondy
+[26Jun2025 01:15:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set the time to 1000]
+[26Jun2025 01:15:36.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/98518, l='ServerLevel[world]', x=-793.47, y=63.47, z=-793.70] died: Joker_de_Coeur was slain by Converted Human
+[26Jun2025 01:15:39.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 01:15:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 01:15:59.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['lightigivhi'/99129, l='ServerLevel[world]', x=-609.42, y=-4.00, z=-341.84] died: lightigivhi was slain by Converted Human
+[26Jun2025 01:16:34.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Atomiclbomb'/99227, l='ServerLevel[world]', x=-729.76, y=31.67, z=-331.11] died: Atomiclbomb was slain by Converted Chicken
