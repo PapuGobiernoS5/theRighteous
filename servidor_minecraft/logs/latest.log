@@ -685,3 +685,60 @@ java.lang.NumberFormatException: For input string: "BlockPos{x=-144, y=77, z=57}
 [26Jun2025 17:25:13.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5, y=-14, z=256}
 [26Jun2025 17:25:13.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=5, y=-14, z=257}
 [26Jun2025 17:25:20.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported Carni2717 to fur_sondy]
+[26Jun2025 17:26:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was slain by Phayrector
+[26Jun2025 17:26:43.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to fur_sondy]
+[26Jun2025 17:26:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Carni2717]
+[26Jun2025 17:27:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy was slain by Phayrector
+[26Jun2025 17:27:21.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 17:28:08.433] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TokenOni420'/95967, l='ServerLevel[world]', x=-765.76, y=-1.00, z=-3882.62] died: TokenOni420 was slain by Converted Enderman
+[26Jun2025 17:28:15.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was pricked to death
+[26Jun2025 17:28:26.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/96483, l='ServerLevel[world]', x=-818.75, y=7.00, z=-3946.33] died: Mad_Dog was slain by Converted Human
+[26Jun2025 17:29:06.797] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-194, y=-31, z=-219}
+[26Jun2025 17:29:09.447] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-83, y=13, z=-228}
+[26Jun2025 17:29:09.448] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-83, y=13, z=-229}
+[26Jun2025 17:29:34.406] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-209, y=-50, z=-142}
+[26Jun2025 17:29:34.406] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=-50, z=-141}
+[26Jun2025 17:29:34.407] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=-50, z=-142}
+[26Jun2025 17:29:34.407] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-208, y=-50, z=-141}
+[26Jun2025 17:30:46.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['ButtonHatBoy'/99533, l='ServerLevel[world]', x=30.45, y=41.80, z=43.45] died: ButtonHatBoy suffocated in a wall
+[26Jun2025 17:30:52.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [WHERE'S THE 'redacted' SOIL?!]
+[26Jun2025 17:30:54.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/98973, l='ServerLevel[world]', x=-787.87, y=-5.00, z=-3983.86] died: Entity was slain by Converted Human
+[26Jun2025 17:31:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set Carni2717's game mode to Spectator Mode]
+[26Jun2025 17:31:34.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Entity'/101895, l='ServerLevel[world]', x=-690.54, y=-41.00, z=-3981.46] died: Entity was slain by Primordial Hivebeacon Stage 1
+[26Jun2025 17:32:05.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 17:32:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 17:33:01.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set Carni2717's game mode to Survival Mode]
+[26Jun2025 17:33:05.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 has made the advancement [Pulsating Goober]
+[26Jun2025 17:33:34.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 was slain by Infected Husk
+[26Jun2025 17:34:19.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Spectator Mode]
+[26Jun2025 17:34:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Survival Mode]
+[26Jun2025 17:34:49.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [I spy with my little eye]
+[26Jun2025 17:35:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy has made the advancement [He looks thirsty]
+[26Jun2025 17:35:33.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/108079, l='ServerLevel[world]', x=-792.25, y=16.00, z=-4055.34] died: Helldwin was slain by Converted Human
+[26Jun2025 17:35:39.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/108078, l='ServerLevel[world]', x=-794.94, y=16.00, z=-4058.39] died: cheesepuff bled to death
+[26Jun2025 17:35:51.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ExeedingSky74'/107460, l='ServerLevel[world]', x=-694.70, y=-18.41, z=-3961.30] died: ExeedingSky74 was slain by Converted Spider
+[26Jun2025 17:39:56.831] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/110762, l='ServerLevel[world]', x=-671.60, y=-14.00, z=-3906.24] died: Deyvid was slain by Converted Human
+[26Jun2025 17:41:38.742] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[26Jun2025 17:43:07.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fur_sondy lost connection: Disconnected
+[26Jun2025 17:43:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy left the game
+[26Jun2025 17:43:07.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Disconnected
+[26Jun2025 17:43:07.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[26Jun2025 17:43:07.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16b333dd[id=<null>,name=Carni2717,properties={},legacy=false] (/127.230.123.102:60267) lost connection: Disconnected
+[26Jun2025 17:43:07.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b7f2d8e[id=<null>,name=fur_sondy,properties={},legacy=false] (/127.39.229.36:35375) lost connection: Disconnected
+[26Jun2025 17:43:07.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2591d345[id=<null>,name=fur_sondy,properties={},legacy=false] (/127.39.229.36:50087) lost connection: Disconnected
+[26Jun2025 17:43:07.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 110189ms or 2203 ticks behind
+[26Jun2025 17:43:09.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:41081] logged in with entity id 112892 at (-6.468825485861308, 63.0, -28.14715524247933)
+[26Jun2025 17:43:09.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[26Jun2025 17:43:09.927] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[26Jun2025 17:44:17.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['lightigivhi'/113101, l='ServerLevel[world]', x=-709.30, y=-39.48, z=-3966.45] died: lightigivhi was slain by Spider
+[26Jun2025 17:46:01.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-734, y=61, z=-4013} BlockPos{x=-734, y=62, z=-4013}
+[26Jun2025 17:46:24.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fur_sondy[/127.39.229.36:42477] logged in with entity id 115691 at (-711.6812759762439, 64.0, -3993.293750011921)
+[26Jun2025 17:46:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fur_sondy joined the game
+[26Jun2025 17:46:24.215] [Server thread/INFO] [Jade/]: Syncing config to fur_sondy (7b5815a3-d3ca-36b7-99ca-66345531fb00)
+[26Jun2025 17:46:56.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=61, z=-3986} BlockPos{x=-701, y=62, z=-3986}
+[26Jun2025 17:46:57.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=61, z=-3985} BlockPos{x=-701, y=62, z=-3985}
+[26Jun2025 17:47:01.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-699, y=61, z=-3983} BlockPos{x=-699, y=62, z=-3983}
+[26Jun2025 17:47:16.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set own game mode to Creative Mode]
+[26Jun2025 17:47:40.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Set Carni2717's game mode to Creative Mode]
+[26Jun2025 17:48:47.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/117292, l='ServerLevel[world]', x=-696.72, y=-44.93, z=-3957.70] died: Whisper was slain by Converted Human
+[26Jun2025 17:50:41.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/118331, l='ServerLevel[world]', x=-692.55, y=-44.82, z=-3942.35] died: ABucketOfFriedChicken was slain by Converted Human

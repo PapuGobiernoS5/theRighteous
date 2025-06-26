@@ -2057,21 +2057,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-06-26 17:17:36 +0000"
-    },
-    "done": true
-  },
   "spore:twisted_creation": {
     "criteria": {
       "pick_up_surgery": "2025-06-26 17:15:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-26 17:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-26 17:17:36 +0000"
+    },
+    "done": true
+  },
+  "spore:gastgaber": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:30:52 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:34:49 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_infected": "2025-06-26 17:35:23 +0000"
     },
     "done": true
   },
