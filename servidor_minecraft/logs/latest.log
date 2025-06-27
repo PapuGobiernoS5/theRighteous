@@ -619,3 +619,45 @@ java.lang.NumberFormatException: For input string: "BlockPos{x=-775, y=65, z=-41
 [27Jun2025 00:33:40.440] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-408, y=-50, z=-2970}
 [27Jun2025 00:33:53.584] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-201, y=-46, z=-2941}
 [27Jun2025 00:33:53.584] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-201, y=-46, z=-2943}
+[27Jun2025 00:34:10.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['lightigivhi'/13986, l='ServerLevel[world]', x=-729.15, y=-38.00, z=-3942.81] died: lightigivhi was slain by Patroller
+[27Jun2025 00:34:12.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/14194, l='ServerLevel[world]', x=-650.56, y=-48.58, z=-3995.86] died: That_Insane_Guy was slain by Converted Horse
+[27Jun2025 00:34:16.775] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-170, y=-32, z=-2900}
+[27Jun2025 00:34:17.466] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-42, y=35, z=-2906}
+[27Jun2025 00:34:17.585] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-30, y=8, z=-2900}
+[27Jun2025 00:34:34.238] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=97, y=-48, z=-2944}
+[27Jun2025 00:34:59.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/6587, l='ServerLevel[world]', x=-654.42, y=-54.32, z=-3967.74] died: ABucketOfFriedChicken tried to swim in lava
+[27Jun2025 00:35:28.532] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=323, y=21, z=-3533}
+[27Jun2025 00:35:59.646] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=411, y=0, z=-3155}
+[27Jun2025 00:36:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Scanning time]
+[27Jun2025 00:37:05.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[27Jun2025 00:37:31.360] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=445, y=34, z=-3097}
+[27Jun2025 00:37:31.360] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=444, y=34, z=-3097}
+[27Jun2025 00:38:26.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Disconnected
+[27Jun2025 00:38:26.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[27Jun2025 00:38:26.095] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 00:39:20.226] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@505a3ac1[id=<null>,name=Carni2717,properties={},legacy=false] (/127.230.123.102:39161) lost connection: Disconnected
+[27Jun2025 00:39:46.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [Floating eyes ?]
+[27Jun2025 00:39:58.580] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e198d56[id=<null>,name=Carni2717,properties={},legacy=false] (/127.230.123.102:54017) lost connection: Disconnected
+[27Jun2025 00:40:08.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:39137] logged in with entity id 24305 at (-722.3426376681274, 64.0, -3989.4912633410813)
+[27Jun2025 00:40:08.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[27Jun2025 00:40:08.557] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[27Jun2025 00:40:15.643] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=610, y=11, z=-3247}
+[27Jun2025 00:40:33.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [fur_sondy: Teleported fur_sondy to Zerox2505]
+[27Jun2025 00:40:38.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Timed out
+[27Jun2025 00:40:38.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[27Jun2025 00:40:48.679] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=478, y=-50, z=-3492}
+[27Jun2025 00:41:01.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 has made the advancement [The Beginning]
+[27Jun2025 00:41:01.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:43909] logged in with entity id 27096 at (-722.3426376681274, 64.0, -3989.4912633410813)
+[27Jun2025 00:41:01.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[27Jun2025 00:41:01.747] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[27Jun2025 00:41:26.899] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=629, y=-42, z=-3554}
+[27Jun2025 00:41:26.900] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=630, y=-42, z=-3554}
+[27Jun2025 00:41:26.900] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=631, y=-42, z=-3554}
+[27Jun2025 00:41:31.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carni2717 lost connection: Timed out
+[27Jun2025 00:41:31.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 left the game
+[27Jun2025 00:42:38.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carni2717[/127.230.123.102:42437] logged in with entity id 29567 at (-722.3426376681274, 64.0, -3989.4912633410813)
+[27Jun2025 00:42:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carni2717 joined the game
+[27Jun2025 00:42:38.874] [Server thread/INFO] [Jade/]: Syncing config to Carni2717 (5ae1089c-b608-3fff-98a5-08d5ce54eb6b)
+[27Jun2025 00:43:14.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zerox2505 lost connection: Disconnected
+[27Jun2025 00:43:14.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zerox2505 left the game
+[27Jun2025 00:43:58.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/30112, l='ServerLevel[world]', x=386.61, y=69.00, z=-3253.20] died: Nova69 was shot by Skeleton
